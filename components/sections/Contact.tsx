@@ -21,7 +21,7 @@ export function Contact() {
               <Button href="/resume/AhmadHashmi.pdf" variant="secondary" external>
                 Download résumé
               </Button>
-              <Button href="https://linkedin.com/in/ahmad-hashmi" variant="ghost" external>
+              <Button href="https://linkedin.com/in/ahmad-hashmi-57300b353" variant="ghost" external>
                 LinkedIn ↗
               </Button>
               <Button href="https://github.com/Hashmi-dev" variant="ghost" external>
